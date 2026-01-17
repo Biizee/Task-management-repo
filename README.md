@@ -1,2 +1,2 @@
 # Task-management-repo
-First django orm project
+My first django orm project :P
